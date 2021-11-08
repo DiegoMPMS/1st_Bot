@@ -1,0 +1,23 @@
+# Para facilitar a utulização, preencha as variaveis e renomeie o arquivo para .env e o bot devera funcionar sem problemas. *-*
+
+############## TWITCH TOKEN ##############
+TWITCH_USER         = 
+TWITCH_OAUTH_TOKEN  = 
+WITCH_CHANNEL       = 
+
+############## PROPAGANDA ##############
+PLAY_PROPAGANDA         = 1     #1 = true -> o bot ira chamar propagandas | 0 = false -> o bot não ira chamar propagandas.
+INTERVALO_PROPAGANDA    = 30 #intervalo em minutos, o código se tá ao trabalho de converter minutos para segundos.
+DURACAO_PROPAGANDA      = 30 #duração da propaganda em segundos: valores válidos (30 - 60 - 90 - 120 - 150 - 180)
+
+############## LINKS ##############
+LINK_DISCORD    = 
+LINK_TWITTER    = 
+LINK_YOUTUBE    = 
+LINK_SPELLTABLE = 
+LINK_GARTIC     =
+LINK_JAKBOX     = 
+LINK_ARK        =
+
+############## CHAT LOG PATH ##############
+LOG_PATH   = 
